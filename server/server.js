@@ -24,7 +24,7 @@ const server = http.createServer((req, res) => {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Firdavs Abdiazizov - Resume</title>
+    <title>John Doe - Resume</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
